@@ -4,7 +4,7 @@ Welcome to the My Python Tools repository! This repository contains a collection
 
 ## About
 
-This repository serves as a collection of handy Python scripts developed by @achuntelolan for simplifying various tasks related to video editing and YOLO annotations conversion. Whether you're a video editor or a developer working with YOLO object detection, you'll find useful tools here to streamline your workflow.
+This repository serves as a collection of handy Python scripts developed by [Anoop Joseph John](https://github.com/achuntelolan) for simplifying various tasks related to video editing and YOLO annotations conversion. Whether you're a video editor or a developer working with YOLO object detection, you'll find useful tools here to streamline your workflow.
 
 ## Features
 
@@ -22,7 +22,7 @@ Contributions to this repository are welcome! If you have any improvements, bug 
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding this repository, feel free to reach out to @achuntelolan.
+If you have any questions, suggestions, or feedback regarding this repository, feel free to reach out to [Anoop Joseph John](https://github.com/achuntelolan).
 
 Happy coding and video editing!
 
